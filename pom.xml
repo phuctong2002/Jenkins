@@ -8,9 +8,9 @@
 		<version>3.1.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>hust.soict</groupId>
 	<artifactId>jenkins</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>jenkins</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
